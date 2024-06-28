@@ -25,3 +25,4 @@ Se ha creado una interfaz gráfica del modelo que se puede encontrar en el sigui
 - **Modelo_Tienda_review.pt:** Modelo ya entrenado.
 - **app.py:** Archivo donde se encuentra la implementación de la interfaz gráfica.
 - **requirements.txt:** Librerías necesarias para que funcione la interfaz gráfica del modelo.
+- **docs/reviews_bert_memoria.docx:** Memoria del trabajo
