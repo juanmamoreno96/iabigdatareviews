@@ -2,8 +2,8 @@
 
 ## Problema a resolver
 
-PROBLEMA: Debido a las altas devoluciones que se están produciendo en una tienda de ropa local, se necesita reducir el número de éstas para poder yo como dueño de la tienda ver cuales son las causas por los que el usuario devuelve la prenda. Así poder mejorar las caracteristicas de las prendas o qué tipo de ropa quieren los compradores que tenga en dicha tienda
-SOLUCIÓN: Para abordar el análisis de reseñas y la detección de reseñas positivas y negativas, se ha elegido el modelo: XLM-RoBERTa (base-sized model), de HuggingFace (https://huggingface.co/FacebookAI/xlm-roberta-base).
+- PROBLEMA: Debido a las altas devoluciones que se están produciendo en una tienda de ropa local, se necesita reducir el número de éstas para poder yo como dueño de la tienda ver cuales son las causas por los que el usuario devuelve la prenda. Así poder mejorar las caracteristicas de las prendas o qué tipo de ropa quieren los compradores que tenga en dicha tienda
+- SOLUCIÓN: Para abordar el análisis de reseñas y la detección de reseñas positivas y negativas, se ha elegido el modelo: XLM-RoBERTa (base-sized model), de HuggingFace (https://huggingface.co/FacebookAI/xlm-roberta-base).
 
 ## Objetivo
 
@@ -25,3 +25,4 @@ Se ha creado una interfaz gráfica del modelo que se puede encontrar en el sigui
 - **Modelo_Tienda_review.pt:** Modelo ya entrenado.
 - **app.py:** Archivo donde se encuentra la implementación de la interfaz gráfica.
 - **requirements.txt:** Librerías necesarias para que funcione la interfaz gráfica del modelo.
+- **docs/reviews_bert_memoria.docx:** Memoria del trabajo
